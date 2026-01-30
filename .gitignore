@@ -1,0 +1,20 @@
+
+target/
+
+# Fichiers temporaires
+*.rs.bk
+
+# IDE / éditeurs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environnements
+.env
+.env.*
+
+# Logs
+*.log
