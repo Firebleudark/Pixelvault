@@ -1,4 +1,4 @@
-# 🔐 PixelVault
+# 🔐 PixelVault - Proof of concept
 
 **Votre coffre-fort numérique, caché dans des pixels.**
 
