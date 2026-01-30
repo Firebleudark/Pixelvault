@@ -14,7 +14,7 @@ colored = "2.1"
 # Cryptographie
 aes-gcm = "0.10"
 argon2 = "0.5"
-rand = "0.8"²
+rand = "0.8"
 
 # Sérialisation
 serde = { version = "1.0", features = ["derive"] }
